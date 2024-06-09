@@ -1,0 +1,1497 @@
+fileFormatVersion: 2
+guid: 00529dae4af204a4ea6229037d8ee495
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STRUG_IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1920
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251c8ac36b1b6942a58c675ffe83315
+      internalID: -557441214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1920
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1322fac81b67c4f96d5d266fcb301b
+      internalID: -1894127287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1919
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9435d50c168627743881a9e1b2e5b889
+      internalID: 372971696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1919
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ab5b83c7d2b344c8794007f9151aa2
+      internalID: -886167069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1919
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e06a1ebb1f5c547aa67cf0c6b3b951
+      internalID: -730840417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1919
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c2a5dfc426ae24ebc24d5684bb256c
+      internalID: -1994349050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1919
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41034f9af063f498e1c1f94a3a81de
+      internalID: -519648776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1919
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e159db7aba5299742be5f6030ae3bc06
+      internalID: -744927969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1663
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eaad2e9bd6b81429706b2c1ddca3ca
+      internalID: -1474907176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1663
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18731be0980f2b94d948aeba0d72b4a8
+      internalID: 172559685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1663
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437775554b557c84fb2207dda2290bcf
+      internalID: -107431415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1663
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a51ce6d2ac23114a8c9493fd61bb7c2
+      internalID: -129858656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1663
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d73b8d43e7d0479c5a49778932c0e
+      internalID: -34015745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_13
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1663
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d72ed05d15c4e4297551bd07eb1981
+      internalID: 561195840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1663
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbfa4871c86ad14299e8e8e9bc552d9
+      internalID: 709386395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_15
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1663
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba84eda92ecaf42970362c60eb3925
+      internalID: -1998232343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1407
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b06333ff369e44f9a3be197bb1b493
+      internalID: -536653267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1407
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5fd83f7ecd6ca4bb6de77b7cc16ac3
+      internalID: -508531146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1407
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc097399c18df4fadd5dfdaa832562
+      internalID: 1020275312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_19
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1407
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09461941f5bb06499e8377e86f12d94
+      internalID: -1891454561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_20
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1407
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b311e1fa464b1a44a3ff88064927691
+      internalID: -2060729082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_21
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1407
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bbc8aa043c3be45ac0fd3054da15ef
+      internalID: 1320772770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_22
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1407
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3938a73b9d2bd274087084248225d926
+      internalID: -406564362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_23
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1407
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d899c927576f79647a4d7367ae218472
+      internalID: 688926565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1151
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea3f8305e9fc6641b225d9457c7c3f0
+      internalID: -863137566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1151
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94965b3fd72849b40be7a3afe39b517b
+      internalID: -948263162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1151
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193f846f2fca7d84f880db6895335907
+      internalID: 1984936229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_27
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1151
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6941d9d9ee186a64090848efc1cb164f
+      internalID: 885216188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_28
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1151
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058925e772fe5644a45a234bbf091dd
+      internalID: -231349603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_29
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1152
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964781c38f528a4eaa669cded142e8b
+      internalID: 1499969564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_30
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1152
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e44c8f85453a047a1b6bbf0bc3567a
+      internalID: -502921747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 894
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bf5a8c76bfda74c9311d3971c96966
+      internalID: 948824986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 895
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd139943986c4548a1668297e8439be
+      internalID: 28157020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 895
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae3ba510a1bf194e8d41d92b67ad33e
+      internalID: 2071291921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_34
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 895
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2055855d2a916324790e3a578e35b380
+      internalID: 1339014379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_35
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 894
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aeba3e1d2dbf04e8d2558b3b22fafe
+      internalID: 2109896641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_36
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 894
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a4cd407405d54d9d4b7e49ddcd566
+      internalID: 879628838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_37
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 894
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e24625eb16e874287e47f9052723f1
+      internalID: -1870057648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_38
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 894
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039fbcb228c216043844110a7001b545
+      internalID: -284517966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 638
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042120fdc12400a40956650fc0b712ee
+      internalID: 555743744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_40
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 638
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b727923630f79ed439c943bffcf42fb7
+      internalID: -661817892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_41
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 638
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff04541b314d2d4daea5e0deaa2ed9c
+      internalID: 1062797972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_42
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 639
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fbc5d5c3be05345973946069634891
+      internalID: -91733585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_43
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 639
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cb6873487493747b82cf1b5e6052ff
+      internalID: -408215034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_44
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 639
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b28709dd692cbb43ae202d19a1215e2
+      internalID: -1797797743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_45
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 639
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d6cbce63b09184b90a1d976b2a3979
+      internalID: -989377073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_46
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 639
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815563673e52e41478722fd17494d944
+      internalID: 1647060863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 384
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892a21405c5f69428325a5d9ceb9f48
+      internalID: 1867890805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_48
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 384
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e1e23cb85751b419849e6cc3024577
+      internalID: 1488182814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_49
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 384
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634e8c4afc1e86c40bc136704c5cc35f
+      internalID: -313392531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_50
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 384
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827fe1274be49234a8178e65e48d8425
+      internalID: 1359483904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_51
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 384
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82b5954a3b9513429c4d2932126b01e
+      internalID: 700180053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_52
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 384
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec102b3298c1d24f8aa14d67549a381
+      internalID: -1514790033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_53
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 384
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc53103f67b5b174ab98e7fac0db6ba4
+      internalID: 265933663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_54
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 384
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680a124e4764bbe468354cc6e5493c28
+      internalID: 1117207610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 128
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28effae8a9262464ba589c9b546c3671
+      internalID: -1356971158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_56
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 128
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a9b6d4b6ed3847a852d2bbb381277
+      internalID: -658792431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_57
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 128
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc585257dd3fe1b43b36ce7e452aec55
+      internalID: -1932240897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_58
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 128
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e153dde320657da4aaba92d7dc4a2d75
+      internalID: -2134297525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_59
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 128
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7807958d679647bf6666d06b904f1
+      internalID: 1434690374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_60
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 128
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33474f796b66d04bb31a0db9ddcbc59
+      internalID: 1352310328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_61
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 128
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2baeba58cec19145ad685efe403ba3d
+      internalID: -635440058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STRUG_IDLE_62
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 128
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ba963398abfda4a96778947c6bc936
+      internalID: -289411119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      STRUG_IDLE_0: -557441214
+      STRUG_IDLE_1: -1894127287
+      STRUG_IDLE_10: -107431415
+      STRUG_IDLE_11: -129858656
+      STRUG_IDLE_12: -34015745
+      STRUG_IDLE_13: 561195840
+      STRUG_IDLE_14: 709386395
+      STRUG_IDLE_15: -1998232343
+      STRUG_IDLE_16: -536653267
+      STRUG_IDLE_17: -508531146
+      STRUG_IDLE_18: 1020275312
+      STRUG_IDLE_19: -1891454561
+      STRUG_IDLE_2: 372971696
+      STRUG_IDLE_20: -2060729082
+      STRUG_IDLE_21: 1320772770
+      STRUG_IDLE_22: -406564362
+      STRUG_IDLE_23: 688926565
+      STRUG_IDLE_24: -863137566
+      STRUG_IDLE_25: -948263162
+      STRUG_IDLE_26: 1984936229
+      STRUG_IDLE_27: 885216188
+      STRUG_IDLE_28: -231349603
+      STRUG_IDLE_29: 1499969564
+      STRUG_IDLE_3: -886167069
+      STRUG_IDLE_30: -502921747
+      STRUG_IDLE_31: 948824986
+      STRUG_IDLE_32: 28157020
+      STRUG_IDLE_33: 2071291921
+      STRUG_IDLE_34: 1339014379
+      STRUG_IDLE_35: 2109896641
+      STRUG_IDLE_36: 879628838
+      STRUG_IDLE_37: -1870057648
+      STRUG_IDLE_38: -284517966
+      STRUG_IDLE_39: 555743744
+      STRUG_IDLE_4: -730840417
+      STRUG_IDLE_40: -661817892
+      STRUG_IDLE_41: 1062797972
+      STRUG_IDLE_42: -91733585
+      STRUG_IDLE_43: -408215034
+      STRUG_IDLE_44: -1797797743
+      STRUG_IDLE_45: -989377073
+      STRUG_IDLE_46: 1647060863
+      STRUG_IDLE_47: 1867890805
+      STRUG_IDLE_48: 1488182814
+      STRUG_IDLE_49: -313392531
+      STRUG_IDLE_5: -1994349050
+      STRUG_IDLE_50: 1359483904
+      STRUG_IDLE_51: 700180053
+      STRUG_IDLE_52: -1514790033
+      STRUG_IDLE_53: 265933663
+      STRUG_IDLE_54: 1117207610
+      STRUG_IDLE_55: -1356971158
+      STRUG_IDLE_56: -658792431
+      STRUG_IDLE_57: -1932240897
+      STRUG_IDLE_58: -2134297525
+      STRUG_IDLE_59: 1434690374
+      STRUG_IDLE_6: -519648776
+      STRUG_IDLE_60: 1352310328
+      STRUG_IDLE_61: -635440058
+      STRUG_IDLE_62: -289411119
+      STRUG_IDLE_7: -744927969
+      STRUG_IDLE_8: -1474907176
+      STRUG_IDLE_9: 172559685
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
