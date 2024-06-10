@@ -23,6 +23,9 @@ accumulated within him to those who caused it...
 - Craft System
 - Soulslike gameplay
 
+## Documentation
+You can find the project documentation in the [Documentation](https://github.com/sancakerkan/Sanctified-Retribution/tree/Documentation) branch.
+
 ## Download
 You can download the latest release of the game from the link below:
 - [Download Sanctified Retribution v0.0.1-pre-alpha](https://github.com/sancakerkan/Sanctified-Retribution/releases/tag/v0.0.1-pre-alpha)
