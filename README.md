@@ -21,7 +21,7 @@ You can download the latest release of the game from the link below:
 - OR direct download here:
 
   
-[![Direct Downlaod](https://github.com/sancakerkan/Sanctified-Retribution/blob/Documentation/in-game%20images/DOWNLOAD-final.png)](https://github.com/sancakerkan/Sanctified-Retribution/archive/refs/tags/demo.zip)
+[![Direct Downlaod](https://github.com/sancakerkan/Sanctified-Retribution/blob/Documentation/in-game%20images/DOWNLOAD-test.png)](https://github.com/sancakerkan/Sanctified-Retribution/archive/refs/tags/demo.zip)
 
 
 ## Installation
