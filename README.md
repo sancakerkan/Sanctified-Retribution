@@ -28,7 +28,9 @@ You can download the latest release of the game from the link below:
    - Jump: Spacebar
    - Attack: LMB
    - Menu: C
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
