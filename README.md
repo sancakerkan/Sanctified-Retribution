@@ -2,6 +2,9 @@
 
 Despite being sealed in hell for millions of years, Metesis's anger and hatred have only grown. Seeking outside help, he strikes a deal with his brothers Osuiris and Sarkanous to come to Earth by sacrificing an entire village. Unfortunately, he succeeds. However, unbeknownst to him, there's someone else who can't stay silent about this injustice. The main character, known as the Struggler, has lost his mind over the situation but still holds onto his faith. Despite previously overlooking the Struggler's devotion, the Creator now regrets it and decides to help indirectly. The Struggler will battle his inner demons and direct his anger towards those responsible.
 
+![In game image](https://github.com/sancakerkan/Sanctified-Retribution/blob/Documentation/in-game%20images/3.png)
+![In game image2](https://github.com/sancakerkan/Sanctified-Retribution/blob/Documentation/in-game%20images/1.png)
+
 ## Features
 - Immersive storyline (in the implementation phase)
 - Engaging combat system
